@@ -67,10 +67,4 @@ We'll explore the following models:
 5. **SVM**
 
 ## Credits
-This project was created by [Joseph Santarcangelo](https://www.linkedin.com/in/joseph-s-50398b136/), a PhD holder in Electrical Engineering. His expertise in machine learning, signal processing, and computer vision has greatly influenced this coursework. Additional contributions were made by [Svitlana Kramar](https://www.linkedin.com/in/svitlana-kramar/).
-
-### Change Log
-- **2022-06-22**: Updated the project requirements, removing unnecessary complexities.
-
-### © IBM Corporation 2020. All rights reserved.
-This coursework is part of the IBM Data Science Professional Certificate on Coursera.
+This project was created by [Ahmed Hassan](www.linkedin.com/in/ahmed-hassan-3aa804236), 
